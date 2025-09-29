@@ -1,0 +1,17 @@
+# 核心 Web 框架
+flask
+
+# Akshare 金融数据接口库
+akshare
+
+# 数据处理库 (akshare 依赖)
+pandas
+
+# 定时任务库
+schedule
+
+# 时区处理库
+pytz
+
+# 生产环境 Web 服务器 (Render 运行时需要)
+gunicorn
